@@ -17,3 +17,6 @@ Tailwind CSS
 
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
+
+### React icons
+npm install react-icons ethers
